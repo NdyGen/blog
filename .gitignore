@@ -1,0 +1,36 @@
+# Jekyll site build output
+_site/
+.sass-cache/
+.jekyll-cache/
+.jekyll-metadata
+.bundle/
+vendor/
+
+# Ruby dependency files
+Gemfile.lock
+
+# Mac OS files
+.DS_Store
+.AppleDouble
+.LSOverride
+Icon
+._*
+.Spotlight-V100
+.Trashes
+
+# IDE files
+.idea/
+.vscode/
+*.sublime-project
+*.sublime-workspace
+
+# Log files
+*.log
+
+# Environment variables
+.env
+
+# Temporary files
+*.swp
+*~
+.*.swp

@@ -1,0 +1,22 @@
+/* Custom styles for The Refactored Road blog */
+
+/* Make the site name smaller on the main page */
+.page-heading h1 {
+  font-size: 4rem !important;
+}
+
+.post-heading h1 {
+  font-size: 2rem !important;
+ }
+
+/* Dutch translations via CSS */
+.post-read-more-link:after {
+  content: "Lees verder" !important;
+  visibility: visible !important;
+  display: inline-block !important;
+}
+
+.post-read-more-link span {
+  visibility: hidden !important;
+  display: none !important;
+}

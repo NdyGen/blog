@@ -1,0 +1,63 @@
+---
+layout: base
+---
+
+{% include header.html type="page" %}
+
+<div class="{% if page.full-width %} container-fluid {% else %} container-md {% endif %}">
+  <div class="row">
+    <div class="{% if page.full-width %} col {% else %} col-xl-8 offset-xl-2 col-lg-10 offset-lg-1 {% endif %}">
+
+      {{ content }}
+
+      {% assign posts = paginator.posts | default: site.posts %}
+      {% if posts.size > 0 %}
+      <div class="posts-list">
+        {% for post in posts %}
+        <article class="post-preview">
+          <a href="{{ post.url | relative_url }}">
+            <h2 class="post-title">{{ post.title }}</h2>
+
+            {% if post.subtitle %}
+              <h3 class="post-subtitle">
+                {{ post.subtitle }}
+              </h3>
+            {% endif %}
+          </a>
+
+          <p class="post-meta">
+            Geplaatst op {% include dutch_date.html date=post.date %}
+            {% if post.author %}
+              door {{ post.author }}
+            {% endif %}
+          </p>
+
+          <div class="post-entry">
+            {% assign excerpt_length = site.excerpt_length | default: 50 %}
+            {{ post.excerpt | strip_html | truncatewords: excerpt_length }}
+            <br/>
+            <a href="{{ post.url | relative_url }}" class="post-read-more">Lees verder</a>
+          </div>
+        </article>
+        {% endfor %}
+      </div>
+
+      {% if paginator.total_pages > 1 %}
+      <ul class="pagination main-pager">
+        {% if paginator.previous_page %}
+        <li class="page-item previous">
+          <a class="page-link" href="{{ paginator.previous_page_path | relative_url }}">&larr; Nieuwere posts</a>
+        </li>
+        {% endif %}
+        {% if paginator.next_page %}
+        <li class="page-item next">
+          <a class="page-link" href="{{ paginator.next_page_path | relative_url }}">Oudere posts &rarr;</a>
+        </li>
+        {% endif %}
+      </ul>
+      {% endif %}
+      {% endif %}
+
+    </div>
+  </div>
+</div>

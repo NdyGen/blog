@@ -1,3 +1,11 @@
+---
+layout: post
+title: Timingproblemen oplossen bij AWS Lambda-bestandsverwijdering via S3 triggers
+subtitle: Hoe je betrouwbaar bestanden kunt verwijderen met AWS Lambda
+tags: [AWS, Lambda, S3, Cloud]
+comments: true
+---
+
 # Timingproblemen oplossen bij AWS Lambda-bestandsverwijdering via S3 triggers
 
 Heb je ooit een AWS Lambda geschreven die automatisch bestanden uit een S3 bucket zou verwijderen nadat ze geüpload zijn, maar lukt het niet om dit 100% betrouwbaar te doen? Vaak krijg je de Lambda netjes getriggerd door een `ObjectCreated` event, maar blijft het bestand toch staan of zie je onverwachte verwijdermarkers. Hoe zorg je er nou voor dat je Lambda robuust met die timing omgaat? In dit artikel duiken we in de oorzaak, concrete voorbeelden en best practices.

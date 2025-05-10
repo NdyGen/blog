@@ -1,0 +1,15 @@
+<!-- Dutch version of post meta information -->
+<div class="post-meta">
+  <span class="post-date">Geplaatst op {{ page.date | date: "%-d %B %Y" }}</span>
+  {% if page.author %}
+    <span class="post-author">door {{ page.author }}</span>
+  {% endif %}
+  {% if page.tags.size > 0 %}
+    <span class="post-tags">
+      Tags:
+      {% for tag in page.tags %}
+        <a href="{{ '/tags' | relative_url }}#{{- tag -}}">{{- tag -}}</a>
+      {% endfor %}
+    </span>
+  {% endif %}
+</div>
