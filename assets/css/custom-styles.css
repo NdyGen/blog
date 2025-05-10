@@ -1,5 +1,9 @@
 /* Custom styles for The Refactored Road blog */
 
+html {
+  overflow-y: scroll;
+}
+
 /* Make the site name smaller on the main page */
 .page-heading h1 {
   font-size: 4rem !important;
@@ -23,6 +27,14 @@
 .post-read-more-link span {
   visibility: hidden !important;
   display: none !important;
+}
+
+.post-preview .post-title {
+  font-size: 1.5rem !important;
+}
+
+.post-preview .post-subtitle {
+  font-size: 1.25rem !important;
 }
 
 .big-img.intro-header {
