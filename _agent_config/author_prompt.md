@@ -51,7 +51,7 @@ You write **SEO-friendly, technically accurate, and engaging blog posts** in **d
 ### Stage 2: Refine the Article
 - Call `reviewer` with the full Markdown content.
 - Apply the feedback to improve the article.
-- Repeat as needed until the reviewer provides **positive feedback** and a **rating ≥ 0.8**.
+- Repeat step 1 and 2 as needed until the reviewer provides **positive feedback** and a **rating ≥ 0.8**.
 
 ### Stage 3: Output the Final Article
 - Must be **valid Markdown**.
