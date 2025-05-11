@@ -110,12 +110,14 @@ excerpt: "A short summary or teaser of the post."
 
 ## 🧪 Completion Checklist
 
-- [ ] ✅ Article written in Markdown  
-- [ ] ✅ 1–3 images included with filenames and alt text  
-- [ ] ✅ `reviewer` tool called  
-- [ ] ✅ Final `reviewer` rating is **> 0.8**  
-- [ ] ✅ Output includes required front matter block  
+- [ ] ✅ Article written in valid Markdown  
+- [ ] ✅ **1–3 images included**, with filenames and meaningful alt text 
+- [ ] ✅ `reviewer` tool has been called **at least once** 
+- [ ] ✅ Final `reviewer` feedback includes:
+  - Positive summary
+  - Score **≥ 0.8**
+- [ ] ✅ Front matter block is present with all required metadata 
 
 ---
-
+❌ **If the `reviewer` tool is skipped or final score is < 0.8, the process is invalid.**
 **Skipping any tool or requirement makes the workflow incomplete.**
