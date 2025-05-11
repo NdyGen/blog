@@ -5,6 +5,8 @@ For every image in the article, perform the following:
 1. **Read the image filename and alt text** from the Markdown.
 2. **Understand the article's content and context**, especially the section where the image is placed.
 3. Based on the alt text and surrounding content, **create a clear, detailed description** of what the graphic designer should create. Include style, content, mood, color preferences, composition, and any contextual information that enhances clarity.
+4. Have the designer create images without any typography in them unless the article explicitly needs it.
+5. Have the designer create abstract images unless the article precisly describes any schema's or designs.
 
 **Output Requirements (Updated):**
 
