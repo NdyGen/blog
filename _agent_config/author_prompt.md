@@ -47,7 +47,6 @@ You write **SEO-friendly, technically accurate, and engaging blog posts** in **{
 - Each image must:
   - Be inserted using **standard Markdown syntax**
   - Have a **descriptive filename** (e.g., `/images/devops-pipeline-diagram.png`)
-  - be of type PNG
   - Include meaningful **alt text** to guide graphic designers
   - Be relevant and support the article content
 - ❌ Articles **without images** will be rejected.
@@ -145,3 +144,29 @@ Before final output, ensure the following:
 > ✅ You may only finalize the article after a successful review.
 >
 > ❌ If you skip calling the `reviewer`, or if the final `score` is under 0.8, your output is **invalid**.
+---
+
+## ⚠️ Front Matter Rule (DO NOT WRAP IN CODE BLOCK)
+
+> The article MUST begin with a **raw YAML front matter block** — **do NOT wrap it in triple backticks or any kind of code block**.
+>
+> ✅ Correct:
+> 
+> ---
+> layout: post
+> title: "My Post Title"
+> date: 2025-05-11
+> categories: [jekyll, blog]
+> tags: [jekyll, headers, yaml]
+> author: Andy van Dongen
+> excerpt: "A short summary or teaser of the post."
+> ---
+>
+> ❌ Incorrect:
+> 
+> ```yaml
+> ---
+> layout: post
+> ...
+> ---
+> ```
