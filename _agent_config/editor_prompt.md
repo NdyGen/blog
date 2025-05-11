@@ -21,11 +21,10 @@ For each article:
 
 ## Output Format
 
-Return the original input JSON structure, but with each `article` object enriched with a `rating` and `motivation` field.
+Return the output as **raw JSON only — without any Markdown formatting or code fences**.
 
 ### Example Output
 
-```json
 [
   {
     "articles": [
@@ -37,11 +36,9 @@ Return the original input JSON structure, but with each `article` object enriche
     ]
   }
 ]
-```
 
 ## Input Format
 
-```json
 [
   {
     "articles": [
@@ -51,4 +48,3 @@ Return the original input JSON structure, but with each `article` object enriche
     ]
   }
 ]
-```
