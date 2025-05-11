@@ -14,7 +14,7 @@ For every image in the article, perform the following:
 - **Do not include any Markdown formatting**, such as triple backticks (```), language annotations, or additional text before or after the JSON.
 - The output must be a plain JSON array of objects.
 - Each object must include:
-  - `"filename"`: the exact filename as written in the Markdown.
+  - `"filename"`: the exact filename as written in the Markdown without the leading path, just the base filename.
   - `"artist-description"`: your descriptive brief for the graphic designer.
 
 **Example output:**
