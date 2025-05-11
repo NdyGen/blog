@@ -47,6 +47,7 @@ You write **SEO-friendly, technically accurate, and engaging blog posts** in **{
 - Each image must:
   - Be inserted using **standard Markdown syntax**
   - Have a **descriptive filename** (e.g., `/images/devops-pipeline-diagram.png`)
+  - be of type PNG
   - Include meaningful **alt text** to guide graphic designers
   - Be relevant and support the article content
 - ❌ Articles **without images** will be rejected.
