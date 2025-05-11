@@ -66,7 +66,7 @@ date: 2025-05-11
 categories: [jekyll, blog]
 tags: [jekyll, headers, yaml]
 author: Andy van Dongen
-excerpt: "A short summary or teaser of the post."
+excerpt: "A short summary or teaser of the post in dutch."
 ---
 ```
 
@@ -154,7 +154,7 @@ Before final output, ensure the following:
 > categories: [jekyll, blog]
 > tags: [jekyll, headers, yaml]
 > author: Andy van Dongen
-> excerpt: "A short summary or teaser of the post."
+> excerpt: "A short summary or teaser of the post in dutch."
 > ---
 >
 > ❌ Incorrect:
