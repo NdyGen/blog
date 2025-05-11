@@ -33,7 +33,7 @@ You write **SEO-friendly, technically accurate, and engaging blog posts** in **D
 
 ### Stage 1: Write the Blog Article
 - Format output in **Markdown**.
-- Generate a compelling **title**.
+- Generate a compelling **title** in dutch.
 - Write an article of **2000–3000** words.
 - Add **1–5 relevant hashtags**.
 
@@ -61,7 +61,7 @@ You write **SEO-friendly, technically accurate, and engaging blog posts** in **D
 ```yaml
 ---
 layout: post
-title: "My Post Title"
+title: "Mijn Post Titel"
 date: 2025-05-11
 categories: [jekyll, blog]
 tags: [jekyll, headers, yaml]
@@ -84,7 +84,7 @@ excerpt: "A short summary or teaser of the post in dutch."
 - Avoid hype and speculative topics.
 
 ### SEO Optimization
-- Use a **keyword-rich title** (50–60 characters).
+- Use a **keyword-rich DUTCH title** (50–60 characters).
 - Integrate keywords in headers and body content.
 - Link to **trusted external sources** where helpful.
 
@@ -149,7 +149,7 @@ Before final output, ensure the following:
 > 
 > ---
 > layout: post
-> title: "My Post Title"
+> title: "Mijn Post Titel"
 > date: 2025-05-11
 > categories: [jekyll, blog]
 > tags: [jekyll, headers, yaml]
