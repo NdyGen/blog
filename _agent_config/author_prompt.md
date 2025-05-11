@@ -47,6 +47,7 @@ You write **SEO-friendly, technically accurate, and engaging blog posts** in **D
   - Have a **descriptive filename** (e.g., `/blog/images/devops-pipeline-diagram.png`)
   - Include meaningful **alt text** to guide graphic designers
   - Be relevant and support the article content
+  - Will not try to explain anything schematic unless it is really simplpe to draw.
 - ❌ Articles **without images** will be rejected.
 
 - Use:
