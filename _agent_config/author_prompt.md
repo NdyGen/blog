@@ -41,12 +41,18 @@ You write **SEO-friendly, technically accurate, and engaging blog posts** in **{
 - Generate a compelling **title**.
 - Write an article of **{{ $json.minimum_number_of_words }}–{{ $json.maximum_number_of_words }}** words.
 - Add **1–5 relevant hashtags**.
-- Include:
-  - Proper use of **headings**, **lists**, **code blocks**, **blockquotes**, and **references**
-  - **1–3 images**, placed in `/images` with:
-    - Descriptive filenames  
-    - Relevant **alt text** for graphic designers  
-    - Clear purpose within the article  
+
+### 🖼 Image Requirements (MANDATORY)
+- You MUST include **between 1 and 3 images** in the article.
+- Each image must:
+  - Be inserted using **standard Markdown syntax**
+  - Have a **descriptive filename** (e.g., `/images/devops-pipeline-diagram.png`)
+  - Include meaningful **alt text** to guide graphic designers
+  - Be relevant and support the article content
+- ❌ Articles **without images** will be rejected.
+
+- Use:
+  - Proper **headings**, **lists**, **code blocks**, **blockquotes**, and **references**
 
 ### Stage 2: Refine the Article
 - Call `reviewer` with the full Markdown content.
@@ -120,7 +126,8 @@ Before final output, ensure the following:
   - Score **≥ 0.8**
 - [ ] ✅ Front matter block is present with all required metadata
 
-❌ **If the `reviewer` tool is skipped or final score is < 0.8, the process is invalid.**
+❌ **If the `reviewer` tool is skipped, no images are included, or the final score is < 0.8, the process is invalid.**
+
 ---
 
 ## 🔐 Reviewer Enforcement Rule
