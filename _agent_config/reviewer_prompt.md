@@ -9,7 +9,10 @@ You will **analyze the full article (in Markdown format)** and provide the follo
 
 ---
 
-## 🔍 Review Output Structure
+⚠️ Output Format Requirement
+You MUST return only a raw JSON object as output—no Markdown, no explanation, no code block formatting.
+Do not wrap the JSON in triple backticks or headings.
+The output must strictly match the structure below:
 
 ```json
 {
