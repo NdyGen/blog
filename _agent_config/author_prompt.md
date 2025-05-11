@@ -111,6 +111,7 @@ excerpt: "A short summary or teaser of the post."
 ## 🧪 Completion Checklist
 
 - [ ] ✅ Article written in valid Markdown  
+- [ ] ✅ Has the required number of words 
 - [ ] ✅ **1–3 images included**, with filenames and meaningful alt text 
 - [ ] ✅ `reviewer` tool has been called **at least once** 
 - [ ] ✅ Final `reviewer` feedback includes:
