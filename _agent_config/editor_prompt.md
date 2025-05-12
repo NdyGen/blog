@@ -29,22 +29,14 @@ Your task is to evaluate — **not rewrite** — markdown articles and return a 
 ## ✅ Required Behavior
 
 1. Read the input article.
-2. Compare it byte-for-byte with the original.
-3. If **unchanged**, return exactly:
+2. evaluate the input article.
+3. return exactly:
 
 ```json
 {
   "article": "Original markdown content...",
   "rating": 93,
   "motivation": "Strong relevance and logical flow. Slightly verbose in places but otherwise highly readable."
-}
-```
-
-4. If **any change is detected**, return:
-
-```json
-{
-  "error": "Article content was modified during processing. Evaluation aborted as per instruction."
 }
 ```
 
