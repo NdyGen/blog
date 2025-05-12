@@ -21,3 +21,9 @@ Return your findings as a **JSON array** in the format below:
 ```
 
 Use only the content provided in the articles. Do not speculate or include external knowledge.
+
+Your response must:
+- Be a single valid JSON object.
+- Do not include any code formatting (e.g. do not use ```json or any backticks).
+- Not include any explanation, comments, or extra text — return the JSON only.
+
