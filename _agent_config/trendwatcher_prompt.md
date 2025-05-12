@@ -27,3 +27,6 @@ Your response must:
 - Do not include any code formatting (e.g. do not use ```json or any backticks).
 - Not include any explanation, comments, or extra text — return the JSON only.
 
+Important:
+- use the `archivist` tool to get a list of past articles we've covered to determine if we want to cover something new.
+
