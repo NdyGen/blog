@@ -109,4 +109,4 @@ Met deze aanpak kun je aanpassingen en groei van je systemen makkelijker doorvoe
 
 ---
 
-Door te kiezen voor een event-driven aanpak met een event bus, investeer je in de toekomstbestendigheid van je softwareplatform. Klaar om je microservices naar het volgende niveau te tillen? Begin vandaag nog met het uitproberen van event-driven patronen in een kleine, gecontroleerde omgeving en ervaar zelf het verschil!
+Door te kiezen voor een event-driven aanpak met een event bus, investeer je in de toekomstbestendigheid van je softwareplatform. Klaar om je microservices naar het volgende niveau te tillen? Begin vandaag nog met het uitproberen van event-driven patronen in een kleine, gecontroleerde omgeving en ervaar zelf het verschil!!
