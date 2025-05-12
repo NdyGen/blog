@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Containerization en Microservices: [Docker en Kubernetes als Perfecte Match](#containerization-en-microservices-een-perfecte-match)"
-date: 2025-05-12
+date: 2025-01-30
 categories: [softwareontwikkeling, microservices, containerization]
 tags: [microservices, containerization, docker, kubernetes, devops]
 author: Andy van Dongen
