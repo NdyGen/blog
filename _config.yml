@@ -136,6 +136,7 @@ markdown: kramdown
 highlighter: rouge
 permalink: /:year-:month-:day-:title/
 paginate: 5
+full-width: true
 
 kramdown:
   input: GFM
