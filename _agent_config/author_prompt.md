@@ -70,6 +70,7 @@ date: 2025-05-11
 categories: [jekyll, blog]
 tags: [jekyll, headers, yaml]
 author: Andy van Dongen
+cover-img: /images/one-of-the-images.jpg
 excerpt: "A short summary or teaser of the post in dutch."
 ---
 ```
