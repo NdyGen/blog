@@ -102,7 +102,7 @@ Zodra de Klantservice een nieuwe klant aanmaakt, wordt automatisch de lokale kla
 
 ## Visuele Uitleg
 
-![Event Bus Communicatie Diagram](/blog/images/microservices-eventbus-communicatie.png)  
+![Event Bus Communicatie Diagram](/images/microservices-eventbus-communicatie.png)  
 *Alt-text: Diagram dat toont hoe microservices berichten via een event bus publiceren en lokale databanken bijwerken.*
 
 ---
