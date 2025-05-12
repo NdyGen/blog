@@ -169,7 +169,6 @@ exclude:
 
 plugins:
   - jekyll-paginate
-  - jekyll-feed
   - jekyll-sitemap
   - jekyll-remote-theme
   - jekyll-seo-tag

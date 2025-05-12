@@ -4,7 +4,6 @@ gem "jekyll", "~> 4.4.1"
 gem "jekyll-remote-theme"
 gem "jekyll-seo-tag"
 gem "jekyll-paginate"
-gem "jekyll-feed"
 gem "jekyll-sitemap"
 
 # Windows and JRuby does not include zoneinfo files, so bundle the tzinfo-data gem
