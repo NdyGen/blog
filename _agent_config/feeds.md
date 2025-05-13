@@ -1,6 +1,5 @@
 | category | feed-url                                                   |
 |----------|------------------------------------------------------------|
-| tech     | https://stackoverflow.com/feeds/tag/microservices          |
 | tech     | https://stackoverflow.com/feeds/tag/amazon-web-services    |
 | tech     | https://stackoverflow.com/feeds/tag/azure                  |
 | tech     | https://stackoverflow.com/feeds/tag/spring-boot            |
