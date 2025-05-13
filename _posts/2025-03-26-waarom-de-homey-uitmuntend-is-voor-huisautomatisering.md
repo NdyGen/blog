@@ -1,6 +1,6 @@
 layout: post
 title: Waarom de Homey Uitmuntend is voor Huisautomatisering
-date: 2025-05-15
+date: 2025-03-26
 categories: [tech, home automation]
 tags: [Homey, smart home, automation]
 author: Andy van Dongen
@@ -18,7 +18,7 @@ In de wereld van huisautomatisering is de Homey een naam die vaak opduikt onder 
 
 ## Unieke Eigenschappen van Homey
 
-### Alle Protocollen onder n Dak
+### Alle Protocollen onder een Dak
 
 Een van de grootste voordelen van de Homey is dat het apparaat ondersteuning biedt voor vrijwel alle communicatieprotocollen die tegenwoordig gebruikt worden in smart homes. Of het nu gaat om Zigbee, Z-Wave, Bluetooth, of Wi-Fi, Homey kan moeiteloos verbinding maken met alle apparaten in uw huis. Dit maakt het een flexibele oplossing die zich aanpast aan diverse setups en voorkeuren.
 
@@ -34,10 +34,8 @@ Voor degenen die bekend zijn met DIY huisautomatisering, is het gebruikelijk om 
 
 ### Jarenlange Stabiele Werking
 
-Mijn persoonlijke ervaring met de Homey reikt meer dan vier jaar terug, en in die tijd heb ik nog nooit ernstige problemen ondervonden. Het apparaat loopt niet vast, moet zelden opnieuw worden gestart, en de updates brengen soepel nieuwe functionaliteiten en verbeteringen zonder de bestaande configuratie te verstoren.
+Mijn persoonlijke ervaring met de Homey reikt meer dan vier jaar terug, en in die tijd heb ik nog nooit ernstige problemen ondervonden. Het apparaat loopt niet vast, moet zelden tot nooit opnieuw worden gestart, en de updates brengen soepel nieuwe functionaliteiten en verbeteringen zonder de bestaande configuratie te verstoren.
 
 ## Conclusie
 
-De Homey is een krachtige engebruiksvriendelijke hub voor huisautomatisering die zich onderscheidt door de ondersteuning van een breed scala aan protocollen en een levendige community. Het bespaart gebruikers van de stress en het tijdsverbruik betrokken bij het configureren en onderhouden van complexe systemen. Als u op zoek bent naar een betrouwbare oplossing die uw leven makkelijker kan maken, dan is de Homey zeker het overwegen waard.
-
-Met de Homey aan.
+De Homey is een krachtige en +gebruiksvriendelijke hub voor huisautomatisering die zich onderscheidt door de ondersteuning van een breed scala aan protocollen en een levendige community. Het bespaart gebruikers van de stress en het tijdsverbruik betrokken bij het configureren en onderhouden van complexe systemen. Als u op zoek bent naar een betrouwbare oplossing die uw leven makkelijker kan maken, dan is de Homey zeker het overwegen waard.
