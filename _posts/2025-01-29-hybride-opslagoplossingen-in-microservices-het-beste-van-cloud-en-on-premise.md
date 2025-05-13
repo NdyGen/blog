@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Hybride opslagoplossingen in microservices: het beste van cloud en on-premise"
-date: 2025-05-13
+date: 2025-01-29
 categories: [microservices, storage, cloud]
 tags: [hybride opslag, microservices, cloud, on-premise]
 author: Andy van Dongen
