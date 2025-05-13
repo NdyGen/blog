@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Automatiseren rondom het huis met n8n: eenvoudig en krachtig"
-date: 2025-05-13
+date: 2025-03-19
 categories: [automation, productivity, n8n]
 tags: [n8n, automatisering, thuisautomatisering, workflow, lowcode]
 author: Andy van Dongen
