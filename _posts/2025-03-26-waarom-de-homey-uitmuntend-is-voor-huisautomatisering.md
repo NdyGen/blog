@@ -1,14 +1,16 @@
+---
 layout: post
-title: Waarom de Homey Uitmuntend is voor Huisautomatisering
+title: "Waarom de Homey Uitmuntend is voor Huisautomatisering"
 date: 2025-03-26
 categories: [tech, home automation]
 tags: [Homey, smart home, automation]
 author: Andy van Dongen
 cover-img: /images/homey-home-automation.jpg
-excerpt: Ontdek waarom de Homey het ultieme apparaat is voor huisautomatisering.
-description: Een uitgebreide beoordeling van de Homey als centraal apparaat voor huisautomatisering: protocollen, gemeenschap, gebruiksgemak.
+excerpt: "Ontdek waarom de Homey het ultieme apparaat is voor huisautomatisering."
+description: "Een uitgebreide beoordeling van de Homey als centraal apparaat voor huisautomatisering: protocollen, gemeenschap, gebruiksgemak."
 lang: nl
 sitemap: true
+---
 
 ![Homey Device in a Modern Home](/images/homey-home-automation.jpg)
 
