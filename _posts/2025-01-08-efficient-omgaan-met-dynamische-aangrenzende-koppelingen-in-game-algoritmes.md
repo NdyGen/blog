@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Efficiënt omgaan met dynamische aangrenzende koppelingen in game-algoritmes"
-date: 2025-01-05
+date: 2025-01-08
 categories: [gaming, algoritmes, programmers]
 tags: [game-development, algoritme-optimalisatie, aangrenzende-koppelingen]
 author: Andy van Dongen
