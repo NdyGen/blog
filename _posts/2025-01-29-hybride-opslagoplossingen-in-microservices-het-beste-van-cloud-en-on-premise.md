@@ -132,8 +132,6 @@ Voor microservices betekent het dat je flexibeler, veiliger en efficiënter omga
 
 > Debugging van een legacy systeem is als grotten verkennen zonder kaart — hybride opslag geeft je die kaart voor je data management!
 
-![Microservices met hybride opslagstrategie](/images/hybrid-storage-in-microservices.png "Voorstelling van microservices die samenwerken met hybride opslag")
-
 ---
 
 ### Referenties
