@@ -14,7 +14,6 @@
 | tech     | https://stackoverflow.com/feeds/tag/istio                  |
 | tech     | https://stackoverflow.com/feeds/tag/n8n             |
 | tech     | https://stackoverflow.com/feeds/tag/kubernetes             |
-| tech     | https://stackoverflow.com/feeds/tag/kafka             |
 | tech     | https://stackoverflow.com/feeds/tag/redis             |
 | tech     | https://stackoverflow.com/feeds/tag/agent             |
 | tech     | https://stackoverflow.com/feeds/tag/spring-cloud |             |
