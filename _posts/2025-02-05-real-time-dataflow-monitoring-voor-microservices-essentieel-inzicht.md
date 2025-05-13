@@ -1,6 +1,6 @@
 layout: post
 title: "Real-time Dataflow Monitoring voor Microservices: Essentieel Inzicht"
-date: 2025-05-13
+date: 2025-02-05
 categories: [microservices, monitoring, devops]
 tags: [microservices, monitoring, real-time, dataflow]
 author: Andy van Dongen
@@ -79,8 +79,3 @@ Voor elk team dat serieus wil groeien met microservices, is investeren in deze m
 - [Istio Service Mesh](https://istio.io/)
 
 ---
-
-*Afbeeldingen:*
-
-- /images/real-time-dataflow-monitoring-microservices.jpg (Real-time dataflow monitoring concept binnen microservices)
-- /images/real-time-dataflow-dashboard.jpg (Realtime dataflow monitoring dashboard met bottleneck indicaties)
