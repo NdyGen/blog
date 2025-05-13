@@ -42,8 +42,8 @@ You write **SEO-friendly, technically accurate, and engaging blog posts** in **D
 
 
 ### 🖼 Image Requirements (MANDATORY)
-- You MUST include **between 1 and 2 images** in the article.
-- Each image must:
+- You MUST include **a single image** in the article, preferably right after the introing paragraph.
+- The image must:
   - Be inserted using **standard Markdown syntax**
   - Have a **descriptive filename** (e.g., `/images/devops-pipeline-diagram.png`)
   - Be relevant and support the article content
@@ -72,6 +72,9 @@ tags: [jekyll, headers, yaml]
 author: Andy van Dongen
 cover-img: /images/one-of-the-images.jpg
 excerpt: "A short summary or teaser of the post in dutch."
+description: "SEO friendly description of the article."
+lang: "nl"
+sitemap: true
 ---
 ```
 
