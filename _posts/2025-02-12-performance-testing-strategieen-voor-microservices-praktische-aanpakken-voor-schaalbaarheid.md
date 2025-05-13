@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Performance Testing Strategieën voor Microservices: Praktische Aanpakken voor Schaalbaarheid"
-date: 2025-05-13
+date: 2025-02-12
 categories: [softwareontwikkeling, microservices, testen]
 tags: [performance testing, microservices, software architectuur]
 author: Andy van Dongen
@@ -104,8 +104,7 @@ Door:
 
 kon het team de bottlenecks identificeren. Optimalisaties zoals caching en query-tuning leverden een **40% snellere responstijd** op, wat klanttevredenheid en conversie aanzienlijk verbeterde.
 
-![Diagram van performance testing binnen een microservices architectuur](/images/performance-testing-microservices.jpg "Microservices performance testing overzicht met nadruk op schaalbaarheid en robuustheid")
-
+![Optimalisatie van performance in e-commerce microservices platform](/images/ecommerce-performance-optimization.jpg "Case study optimalisatie performance e-commerce microservices platform")
 ---
 
 ## Conclusie & Call to Action
@@ -122,4 +121,3 @@ Wil je aan de slag met performance testing? Overweeg tools zoals [k6](https://k6
 - [DZone - Performance Testing Microservices](https://dzone.com/articles/performance-testing-of-microservices-architecture)  
 - [Gremlin - Chaos Engineering](https://www.gremlin.com/chaos-engineering/)  
 
-![Optimalisatie van performance in e-commerce microservices platform](/images/ecommerce-performance-optimization.jpg "Case study optimalisatie performance e-commerce microservices platform")
