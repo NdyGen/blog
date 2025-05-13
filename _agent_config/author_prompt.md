@@ -81,7 +81,9 @@ sitemap: true
 
 - Include 1–3 images.
 - Follow all formatting conventions.
-
+- For the date used in the front matter block the following apply:
+  - we always publish on wednesday. So if today is not a wednesday you should use the date of the next wednesday.
+  - the date must be in the following format: YYYY-MM-DD
 ---
 
 ## 📋 Content Guidelines
