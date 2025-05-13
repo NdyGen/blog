@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Efficiënt foutherstel met Kubernetes in microservices omgevingen"
-date: 2025-05-12
+date: 2025-02-19
 categories: [devops, microservices, kubernetes]
 tags: [kubernetes, fault recovery, microservices, high availability]
 author: Andy van Dongen
@@ -16,8 +16,6 @@ Stel je voor: tijdens een grote online sale crasht plotseling de betalingsverwer
 Kubernetes is anno 2025 niet meer weg te denken uit moderne cloud-native omgevingen. Vooral zijn vermogen om storingen te detecteren en zichzelf te herstellen, maakt het een essentieel hulpmiddel in microservices architecturen die veerkracht en hoge beschikbaarheid eisen.
 
 Dit artikel neemt je mee in hoe Kubernetes foutherstel organiseert, waarom het zo waardevol is en hoe je er zelf maximaal voordeel uit haalt.
-
-![Kubernetes fault recovery architecture](/images/kubernetes-fault-recovery-architecture.jpg "Architectuur van Kubernetes voor foutherstel")
 
 ## Wat is foutherstel in Kubernetes en waarom is het cruciaal voor microservices?
 
@@ -110,6 +108,8 @@ Zoals een dirigent een orkest door onverwachte fouten loodst zonder dat het publ
 
 Dat maakt het platform een game changer voor moderne, veerkrachtige applicaties in productieomgevingen.
 
+![Kubernetes pods rolling update](/images/kubernetes-pods-rolling-update.png "Rolling update en pod vervanging in Kubernetes")
+
 ## Conclusie
 
 Kubernetes biedt krachtige, ingebouwde mechanismen voor foutherstel die onmisbaar zijn in microservices architectuur. Van automatische pod-herstart tot stateful failover, het verhoogt de betrouwbaarheid en beschikbaarheid aanzienlijk zonder dat ontwikkelteams continu hoeven in te grijpen.
@@ -125,7 +125,3 @@ Door de beschreven best practices zorgvuldig toe te passen, bouw je aan robuuste
 - [Designing Distributed Systems**, Brendan Burns, O'Reilly Media](https://www.oreilly.com/library/view/designing-distributed-systems/9781491983638/)
 
 ---
-
-![Kubernetes pods rolling update](/images/kubernetes-pods-rolling-update.png "Rolling update en pod vervanging in Kubernetes")
-
-![Kubernetes StatefulSet diagram](/images/kubernetes-statefulset-diagram.png "StatefulSet en persistent storage illustratie")
