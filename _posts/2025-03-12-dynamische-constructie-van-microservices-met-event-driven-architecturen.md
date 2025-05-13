@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Dynamische Constructie van Microservices met Event-Driven Architecturen"
-date: 2025-05-12
+date: 2025-03-12
 categories: [softwarearchitectuur, microservices, event-driven]
 tags: [microservices, event-driven, architectuur, softwareontwikkeling]
 author: Andy van Dongen
