@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Optimaliseren van API-aanroepen met Circuit Breaker-patronen"
-date: 2025-05-13
+date: 2025-05-22
 categories: [software-architectuur, microservices]
 tags: [circuit breaker, api calls, microservices, foutafhandeling]
 author: Andy van Dongen
