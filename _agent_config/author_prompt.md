@@ -97,6 +97,7 @@ sitemap: true
 - For the date in the front matter:
   - Always publish on Wednesday. If today is not a Wednesday, use the next Wednesday’s date.  
   - Format: YYYY-MM-DD
+- All quotes in the article must be escaped (e.g. preceeded with a backslash '\') so that we can put the whole article in a JSON string later.
 
 ## 📋 Content Guidelines
 
