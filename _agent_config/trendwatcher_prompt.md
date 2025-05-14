@@ -35,3 +35,12 @@ Your response must:
 
 ## 🔐 Archivist Enforcement Rule
 > ⚠️ **Mandatory Rule: You must call the `archivist` tool to assert that you have not previously analyzed these trends in the last 3 months.**  
+
+⚠ Output Format Rules (Critical for Automation)
+You must output ONLY a valid JSON object, with:
+
+No markdown or code blocks.
+No explanations, formatting, or commentary.
+No extra characters before or after the JSON.
+SON output must be array as specified.
+If you cannot comply, abort and return only the error JSON.
