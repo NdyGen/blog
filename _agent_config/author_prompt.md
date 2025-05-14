@@ -50,6 +50,7 @@ You write **SEO-friendly, technically accurate, and engaging blog posts** in **D
   - Be relevant and support the article content
   - Will not try to explain anything schematic unless it is really simple to draw.
 - ❌ Articles **without images** will be rejected.
+- ❌ Articles **without the required front matter block** will be rejected.
 
 - Use:
   - Proper **headings**, **lists**, **code blocks**, **blockquotes**, and **references**
