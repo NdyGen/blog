@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Scoped Inheritance en Polymorfisme Uitdagingen in Hibernate"
-date: 2025-05-21
+date: 2025-05-14
 categories: [software-ontwikkeling, blog]
 tags: [Hibernate, polymorfisme, SQL]
 author: Andy van Dongen
@@ -52,7 +52,7 @@ Het gebruik van caching op niveau van de tweede laag in Hibernate kan ook helpen
 
 ## 3. Best Practices en Verdere Overwegingen
 
-- **Gebruik van DTO's (Data Transfer Objects)**: Om de impact van complexe queries te minimaliseren, is het mogelijk om alleen de benodigde data in een flatte structuur, zoals DTO's, te extraheren.
+- **Gebruik van DTO's (Data Transfer Objects)**: Om de impact van complexe queries te minimaliseren, is het mogelijk om alleen de benodigde data in een structuur, zoals DTO's, te extraheren.
 - **Beperk Inheritance Mapping**: Hoewel polymorfisme krachtig is, kan het beperken van de diepte en breedte van inheritance hierarchieën performancevoordelen opleveren.
 - **Regelmatige code- en databasebeoordelingen**: Door code en database schema's regelmatig te beoordelen kunnen inefficiënties en potentieel problematische configuraties geïdentificeerd en aangepast worden.
 
