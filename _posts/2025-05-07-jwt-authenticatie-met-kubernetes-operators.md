@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "JWT-authenticatie met Kubernetes Operators"
-date: 2025-05-21
+date: 2025-05-07
 categories: [devops, kubernetes]
 tags: [jwt, kubernetes, security, operators]
 author: Andy van Dongen
