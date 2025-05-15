@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Vooruitgang in het Beheren van Variabele Recordgroottes in Backend Systemen"
-date: 2025-05-21
+date: 2025-04-30
 categories: [backend, data management]
 tags: [caching, performance, data optimization]
 author: Andy van Dongen
