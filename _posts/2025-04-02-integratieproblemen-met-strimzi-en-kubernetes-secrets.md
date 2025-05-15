@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Integratieproblemen met Strimzi en Kubernetes Secrets"
-date: 2025-05-14
+date: 2025-04-02
 categories: [DevOps, Kubernetes]
 tags: [Strimzi, Kubernetes, Secrets Management]
 author: Andy van Dongen
