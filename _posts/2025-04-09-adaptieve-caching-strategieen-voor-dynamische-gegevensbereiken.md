@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Adaptieve Caching Strategieën voor Dynamische Gegevensbereiken"
-date: 2025-05-21
+date: 2025-04-09
 categories: [software development, backend systems]
 tags: [caching, performance optimization]
 author: Andy van Dongen
