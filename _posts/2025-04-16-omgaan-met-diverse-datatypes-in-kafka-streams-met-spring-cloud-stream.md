@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Omgaan met Diverse Datatypes in Kafka Streams met Spring Cloud Stream"
-date: 2025-05-21
+date: 2025-04-16
 categories: [Data Handling, Software Development]
 tags: [Kafka, Spring Cloud, Data Streams]
 author: Andy van Dongen
