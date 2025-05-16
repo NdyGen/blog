@@ -86,3 +86,18 @@ sitemap: true
 - [ ] YAML front matter present (not wrapped in code block)
 
 ❌ If any checklist item is missing, the output is INVALID.
+
+Mandatory Completion Rules (Non-Negotiable)
+You must include the following in your output:
+
+A complete YAML front matter block (DO NOT wrap in backticks) at the top of the article.
+
+A valid image in Markdown after the introduction.
+
+Proof that the reviewer tool has been called:
+
+Include the JSON result from the reviewer directly in your output
+
+The JSON must include a score ≥ 0.8 and final_verdict = “Good” or “Excellent”
+❌ If any of the above is missing, you must stop and fix your output before completing.
+✅ Do not finalize or return anything unless all checks are passed.
