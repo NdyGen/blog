@@ -45,6 +45,7 @@ The output must strictly match the structure below:
 - Logical flow of ideas
 - Clear headings and transitions
 - Bullet points or lists where appropriate
+- Correct grammar and spelling (use tool to check)
 
 ### 2. Technical Accuracy
 - Correct use of terms, code, and concepts
