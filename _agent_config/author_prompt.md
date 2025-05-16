@@ -25,6 +25,7 @@ You MUST follow the full blog creation workflow. Skipping any step or tool will 
 
 ### Stage 1: Write the Draft
 - Format in valid Markdown
+- language of the output: dutch
 - Title:
   - In Dutch
   - Keyword-rich, 50–60 characters
