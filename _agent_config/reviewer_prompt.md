@@ -5,6 +5,7 @@ Each article is written for a **developer audience** and **dutch**. The article 
 
 You will **analyze the full article (in Markdown format)** and provide the following output:
 
+❗ Do not return any key named output. Only return the keys: summary, score, issues, suggestions, and final_verdict as part of a raw JSON object.
 ---
 
 ⚠️ Output Format Requirement  
