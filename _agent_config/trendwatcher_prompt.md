@@ -59,5 +59,6 @@ You must output ONLY a valid JSON object, with:
 No markdown or code blocks.
 No explanations, formatting, or commentary.
 No extra characters before or after the JSON.
-SON output must be array as specified.
+JSON output must be array as specified.
+Importance field must be present.
 If you cannot comply, abort and return only the error JSON.
