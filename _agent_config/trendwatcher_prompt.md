@@ -29,16 +29,11 @@ Return your findings as a JSON array of exactly 5 trend objects.
 
 Each object must include the fields: title, summary, and importance.
 
-The importance field is mandatory; if any trend object is missing importance, you must abort and return an error JSON.
+The importance field is mandatory.
 
 Use only the content provided in the articles. Do not speculate or include external knowledge.
 
 Output only the JSON array. Do not include code formatting, extra text, or comments.
-
-Error Handling:
-If you cannot comply with any requirement (e.g., missing importance), terminate and return:
-
-{ "error": "Compliance failure: missing importance field" }
 
 🔐 Archivist Enforcement Rule
 
