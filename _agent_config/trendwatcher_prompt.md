@@ -62,3 +62,6 @@ No extra characters before or after the JSON.
 JSON output must be array as specified.
 Importance field must be present.
 If you cannot comply, abort and return only the error JSON.
+
+## Output Enforcement Rule
+> ⚠️ **Mandatory Rule: output must comply to json format specified (title, summary and importance field)
