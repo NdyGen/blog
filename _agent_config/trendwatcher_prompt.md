@@ -10,11 +10,11 @@ the list will be in JSON and look like this:
    {
      "title": "title of the article",
      "published": "date of publishing",
-     "summary": "summary of the article"
+     "category": "an array with categories"
    },
      "title": "title of the article",
      "published": "date of publishing",
-     "summary": "summary of the article"
+     "category": "an array with categories"
    {
    },
    ...
@@ -24,7 +24,7 @@ the list will be in JSON and look like this:
 
 For each identified trend, provide:
 - A concise, descriptive **title** (field: `title`)
-- A brief **summary** (1–2 sentences) explaining the essence of the trend (field: `summary`)
+- A brief **summary** (1–2 sentences) explaining the essence of the trend to help authors write an article about it
 
 Return your findings as a **JSON array** in the format below:
 
