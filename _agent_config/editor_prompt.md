@@ -14,6 +14,7 @@ Your task is to evaluate — **not rewrite** — markdown articles and return a 
 - **Accuracy**: Correct use of terms, code, and concepts.
 - **SEO**: Descriptive, keyword-rich title (50–60 characters).
 - **Duplication**: Absolutely no duplicate content or overlap with articles in the recent past (6 months), use the `archivist` tool to retrieve a list of recent articles.
+- **Images**: A minimum of one image is required, use images only if they are relevant to the article and not too large.
 
 ---
 
