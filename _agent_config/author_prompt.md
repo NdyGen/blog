@@ -29,7 +29,7 @@ You must:
 - Article must be written in **Dutch**
 - Word count: **2000–3000 words**
 - Write a compelling introduction
-- Include **one image** placed directly after the first paragraph:
+- Must include **one image** placed directly after the first paragraph:
   - Markdown syntax
   - Descriptive filename (e.g. `/images/devops-diagram.png`)
   - Relevant and helpful
