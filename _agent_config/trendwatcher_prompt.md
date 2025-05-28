@@ -40,3 +40,5 @@ Output only the JSON array. Do not include code formatting, extra text, or comme
 ⚠️ Mandatory Rule: You must call the archivist tool first to assert that these trends have not been analyzed in the last 3 months.
 
 Ensure that your final output strictly adheres to these rules.
+
+⚠️ Mandatory Rule: Select at least 1 non technology related trend (e.g. bass gitar or photography).
